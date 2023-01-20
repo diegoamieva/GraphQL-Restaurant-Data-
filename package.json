@@ -1,0 +1,26 @@
+{
+  "name": "expressgraphql01",
+  "version": "1.0.0",
+  "description": "<div align=\"center\" id=\"top\">    <img src=\"./.github/app.gif\" alt=\"GraphQL Restaurant Data\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jrw@mit.edu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoamieva/GraphQL-Restaurant-Data-.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/diegoamieva/GraphQL-Restaurant-Data-/issues"
+  },
+  "homepage": "https://github.com/diegoamieva/GraphQL-Restaurant-Data-#readme"
+}
